@@ -1,9 +1,10 @@
-const CACHE='cyclops-lab-v2-shell-1';
+const CACHE='cyclops-lab-v3-shell-1';
 const SHELL=['./','./index.html','./manifest.webmanifest','./icon-180.png','./icon-192.png','./icon-512.png'];
-self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting())));
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(async c=>{await c.addAll(SHELL);try{await c.add('./database-hero.json');}catch(e){/* optional database */}}).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('cyclops-lab-')&&k!==CACHE).map(k=>caches.delete(k)))),self.clients.claim()])));
 self.addEventListener('fetch',e=>{
  const r=e.request;if(r.method!=='GET')return;
+ if(new URL(r.url).origin===self.location.origin && new URL(r.url).pathname.endsWith('/database-hero.json')){e.respondWith(fetch(r).then(resp=>{if(resp.ok){const copy=resp.clone();e.waitUntil(caches.open(CACHE).then(c=>c.put(r,copy)));}return resp;}).catch(()=>caches.match(r).then(hit=>hit||new Response('{}',{status:503}))));return;}
  if(r.mode==='navigate'){
   e.respondWith(fetch(r).then(resp=>{if(resp.ok){const copy=resp.clone();e.waitUntil(caches.open(CACHE).then(c=>c.put('./index.html',copy)));}return resp;}).catch(()=>caches.match('./index.html')));return;
  }

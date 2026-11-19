@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Cyclops Lab V1 — Jungle Edition",
+  "name": "Cyclops Lab V3 — Jungle Edition",
   "short_name": "Cyclops Lab",
-  "description": "Build analyzer Cyclops jungler dari draft hero; core cooldown dan sustain, Winter Crown opsional.",
+  "description": "Build Cyclops jungle adaptif; cooldown, sustain, dan mode Defence.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
