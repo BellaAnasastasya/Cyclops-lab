@@ -14,10 +14,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Kamuflase dan pecahan mengejar target; burst meningkat saat pecahan terkumpul",
-    "response": "Jangan sendirian saat ia menghilang; simpan stun untuk kemunculannya",
-    "ally": "Follow-up pickoff setelah stun",
+    "response": "Hindari duel saat pecahan terkumpul; mundur dengan S2 lalu lock setelah muncul.",
+    "ally": "Lock Cyclops membantu Aamon menuntaskan pickoff.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Akai": {
     "mobility": 2,
@@ -33,11 +34,12 @@
     "untargetable": false,
     "dashHeavy": true,
     "movement": "dash/lompatan",
-    "threat": "Lompatan dan putaran mendorong Gord ke dinding; memutus channel",
-    "response": "Jauhi dinding dan jangan ulti sebelum putaran selesai",
-    "ally": "Dorong diver menjauh, jangan dorong target keluar S2",
+    "threat": "Lompatan dan putaran menggeser Cyclops dari buff atau pit, mengganggu posisi untuk secure.",
+    "response": "Jangan kontes objektif dengan punggung ke dinding; tunggu putaran habis sebelum masuk.",
+    "ally": "Putaran mengusir jungler lawan dari pit; koordinasikan waktu Retribution.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Aldous": {
     "mobility": 3,
@@ -54,10 +56,11 @@
     "dashHeavy": false,
     "movement": "engage jarak jauh/global",
     "threat": "Ultimate mengunci target dari jauh; pukulan stack mengancam terutama late",
-    "response": "Rapat ke pelindung saat tanda ulti muncul; simpan stun untuk pendaratan",
-    "ally": "Buka vision dan kunci target untuk follow-up",
+    "response": "Saat ditandai, merapat ke tim dan kite setelah pendaratan.",
+    "ally": "Vision global membantu memilih target gank.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Alice": {
     "mobility": 2,
@@ -74,10 +77,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Orb teleport masuk formasi; drain area saat dekat",
-    "response": "Jangan berdiri dalam radius drain; zoning jalur orb",
-    "ally": "Tahan frontline dalam area damage",
+    "response": "Kite di tepi radius drain; jangan bertahan dalam duel sustain tanpa antiheal.",
+    "ally": "Menahan frontline agar Cyclops dapat menyerang dari tepi.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Alpha": {
     "mobility": 2,
@@ -94,10 +98,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan airborne lalu serangan Beta berulang dan sustain",
-    "response": "Jaga jarak dari jalur ulti; antiheal jika sustain relevan",
-    "ally": "Knockup membuka S2",
+    "response": "Hindari jalur airborne; kite di luar jangkauan Beta dan prioritaskan antiheal bila perlu.",
+    "ally": "Airborne membuka jendela orb dan serangan objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Alucard": {
     "mobility": 2,
@@ -114,10 +119,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Lompatan dan lunge pasif mengejar target sambil lifesteal",
-    "response": "Jangan beri target dekat untuk mengejar; stun setelah masuk",
-    "ally": "Follow-up damage, bukan peel utama",
+    "response": "Jaga jarak dari lunge dan gunakan ultimate untuk memutus pengejaran; hindari adu lifesteal.",
+    "ally": "Follow-up melee setelah lock; jangan berebut farm jungle.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Angela": {
     "mobility": 1,
@@ -134,10 +140,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Dukungan global shield dan heal membuat diver lebih tahan",
-    "response": "Perhatikan siapa yang ditempeli; jangan buang seluruh kombo ke shield",
-    "ally": "Shield dan heal saat Gord ditekan",
+    "response": "Hitung shield dan heal sebelum commit mengejar target.",
+    "ally": "Shield dan heal langsung memperpanjang skirmish Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Argus": {
     "mobility": 2,
@@ -154,10 +161,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Dash mendekat; ultimate menunda kematian",
-    "response": "Kite selama ultimate, jangan habiskan laser saat ia tidak bisa mati",
-    "ally": "Tekanan frontline, bukan perlindungan langsung",
+    "response": "Kite selama ultimate aktif; simpan burst untuk setelah efeknya berakhir.",
+    "ally": "Tekanan melee memberi ruang farming objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Arlott": {
     "mobility": 3,
@@ -174,10 +182,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash ulang pada target bertanda CC; displacement area",
-    "response": "Hindari rantai CC dan simpan jarak dari sekutu bertanda",
-    "ally": "CC berantai dan dorongan untuk setup",
+    "response": "Jangan masuk rantai CC; jaga jarak dari jalur dash ke target bertanda.",
+    "ally": "Lock Cyclops dapat membuka peluang rangkaian CC Arlott.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Atlas": {
     "mobility": 2,
@@ -194,10 +203,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Engage cepat dan tarikan area mengumpulkan tim",
-    "response": "Jangan berdempetan; tahan Flicker untuk engage",
-    "ally": "Tarikan area menahan beberapa target dalam S2",
+    "response": "Pisah posisi saat kontes pit; jangan masuk sebelum engage terlihat.",
+    "ally": "Grouping membantu damage S1; Cyclops lanjut lock target prioritas.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Aulus": {
     "mobility": 1,
@@ -214,10 +224,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Kecepatan gerak dan basic attack berskala late",
-    "response": "Jaga jarak, perlambat pendekatan, jangan duel dekat",
-    "ally": "Frontline damage jika mampu menahan musuh",
+    "response": "Kite di tepi jangkauan basic attack, jangan adu DPS melee late.",
+    "ally": "Frontline damage membuka ruang serangan Cyclops.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Aurora": {
     "mobility": 0,
@@ -233,11 +244,12 @@
     "untargetable": false,
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
-    "threat": "Freeze area dan burst mengganggu channel dari jarak jauh",
-    "response": "Pancing freeze sebelum ulti",
-    "ally": "Freeze menahan target untuk multi-hit",
+    "threat": "Freeze area dan magic burst membuat Cyclops kehilangan waktu spam dan kesempatan reposisi.",
+    "response": "Pancing freeze sebelum mendekat untuk S2; hindari semak tanpa vision.",
+    "ally": "Freeze memberi waktu menumpuk hit dan cooldown pasif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Badang": {
     "mobility": 2,
@@ -254,10 +266,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash membentuk dinding dan rentetan pukulan mengunci target",
-    "response": "Jauhi dinding serta arah dash",
-    "ally": "Kunci target dekat dinding untuk laser",
+    "response": "Hindari dinding dan lorong sempit saat rotasi buff.",
+    "ally": "Kuncian dinding memberi waktu Cyclops menembakkan orb.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Balmond": {
     "mobility": 1,
@@ -274,10 +287,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Dash pendek, putaran dan execute HP rendah",
-    "response": "Kite di luar radius putaran",
-    "ally": "Frontline menahan ruang",
+    "response": "Jaga HP di pit, hindari execute dan hitung burst objektifnya.",
+    "ally": "Damage area membantu menjaga akses pit, koordinasikan secure.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Bane": {
     "mobility": 1,
@@ -294,10 +308,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Poke proyektil, heal sendiri dan gelombang hiu mendorong",
-    "response": "Hindari jalur hiu sebelum channel",
-    "ally": "Gelombang membuka ruang atau menggeser target",
+    "response": "Hindari gelombang hiu dan jangan duel dekat saat heal tersedia.",
+    "ally": "Gelombang mengusir lawan dari jalur objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Barats": {
     "mobility": 1,
@@ -314,10 +329,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Tubuh besar dan kuncian ultimate mengancam dari dekat",
-    "response": "Jangan masuk jangkauan telan; serang dari jauh",
-    "ally": "Frontline dan lock target untuk kombo",
+    "response": "Jangan masuk jangkauan telan; kite dari luar tubuh besarnya.",
+    "ally": "Frontline dan kuncian memberi ruang farming dan follow-up.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Baxia": {
     "mobility": 3,
@@ -334,10 +350,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Berguling cepat dari jalur samping; antiheal bawaan",
-    "response": "Awasi rotasi dan stun tabrakan",
-    "ally": "Engage dan antiheal bawaan membantu tim",
+    "response": "Waspadai invasi cepat dan antiheal yang menekan spell vamp.",
+    "ally": "Rotasi cepat dan antiheal membantu tekanan jungle.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Beatrix": {
     "mobility": 2,
@@ -354,10 +371,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash pendek dan beberapa senjata dengan pola burst berbeda",
-    "response": "Waspadai garis sniper dan shotgun jarak dekat",
-    "ally": "Follow-up damage dari jarak aman",
+    "response": "Hindari sniper di jalur terbuka dan jangan masuk radius shotgun.",
+    "ally": "Damage fisik dari belakang menyeimbangkan magic damage Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Belerick": {
     "mobility": 1,
@@ -374,10 +392,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Taunt area memaksa target menyerang, pantulan basic attack",
-    "response": "Jangan masuk radius taunt",
-    "ally": "Peel area melawan diver dan marksman",
+    "response": "Jaga jarak dari taunt; jangan terjebak saat mendekati pit.",
+    "ally": "Taunt menahan diver agar Cyclops bisa terus spam.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Benedetta": {
     "mobility": 3,
@@ -394,10 +413,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash berturut dan parry menghindari stun",
-    "response": "Tunggu parry; zoning titik akhir dash",
-    "ally": "Flank dan CC situasional",
+    "response": "Tunggu parry sebelum ultimate; jangan kejar dash terlalu jauh.",
+    "ally": "Flank membagi fokus lawan saat Cyclops menyerang dari depan.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Brody": {
     "mobility": 1,
@@ -414,10 +434,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Stun jarak menengah dan ultimate berbasis mark",
-    "response": "Jangan biarkan mark menumpuk",
-    "ally": "Stun pendek untuk follow-up",
+    "response": "Hindari penumpukan mark sebelum kontes dan jangan kejar masuk stun.",
+    "ally": "Stun pendek membantu lock dan burst campuran.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Bruno": {
     "mobility": 2,
@@ -434,10 +455,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan bola burst; ultimate mengganggu formasi",
-    "response": "Jaga jarak dari jalur bola dan stun",
-    "ally": "Damage follow-up, CC situasional",
+    "response": "Kite dari jangkauan bola dan awasi burst basic attack.",
+    "ally": "Damage fisik tinggi membantu menghindari komposisi full magic.",
     "phase": "late (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Carmilla": {
     "mobility": 2,
@@ -454,10 +476,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Link menyebarkan damage dan CC; mendekat untuk mengikat",
-    "response": "Jangan berdempetan saat link tersedia",
-    "ally": "Link memperluas dampak kombo pada target terkait",
+    "response": "Pisah posisi saat link aktif; jangan tarik fight ke tim sendiri.",
+    "ally": "Link memperluas dampak damage dan kontrol terhadap lawan terkait.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Cecilion": {
     "mobility": 1,
@@ -474,10 +497,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Poke jarak jauh berskala mana dan tarikan area",
-    "response": "Hindari titik ujung serangan dan tarikan",
-    "ally": "Tarikan menahan target untuk S2",
+    "response": "Dekati lewat sudut aman, hindari tarikan dan ujung poke.",
+    "ally": "Tarikan membantu S1 dan memberi waktu orb mengenai target.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Chang'e": {
     "mobility": 1,
@@ -494,10 +518,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Kecepatan dan shield mendukung rentetan proyektil jarak jauh",
-    "response": "Keluar dari garis tembakan; jangan balas channel di jalur sama",
-    "ally": "Tekanan area dan siege",
+    "response": "Geser menyamping dari rentetan proyektil; jangan mengejar shield tanpa vision.",
+    "ally": "Tekanan jarak jauh membantu zoning pit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Chip": {
     "mobility": 3,
@@ -514,10 +539,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Portal mengubah akses tim musuh dengan cepat",
-    "response": "Jauhi portal dan awasi kedatangan sekutu lawan",
-    "ally": "Portal rotasi dan CC untuk setup",
+    "response": "Jangan invade tanpa informasi portal; mundur jika lawan mendapat bantuan.",
+    "ally": "Portal mempercepat rotasi gank dan bantuan objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Chou": {
     "mobility": 3,
@@ -533,11 +559,12 @@
     "untargetable": false,
     "dashHeavy": true,
     "movement": "dash/lompatan",
-    "threat": "Dash, immunity sesaat dan tendangan memisahkan Gord",
-    "response": "Berdiri di luar jangkauan tendang, simpan Flicker",
-    "ally": "Tendang diver menjauh atau target ke S2",
+    "threat": "Dash, immunity sesaat dan tendangan mengisolasi Cyclops dari tim atau objektif.",
+    "response": "Jauhi sudut tendangan ke tim musuh; simpan S2 untuk keluar setelah CC.",
+    "ally": "Tendangan dapat mengisolasi target untuk lock Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Cici": {
     "mobility": 2,
@@ -554,10 +581,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Gerak sambil menyerang dan lompatan membantu mengejar",
-    "response": "Jaga jarak dari rantai yoyo",
-    "ally": "Tekanan frontline dan follow-up",
+    "response": "Jangan adu sustain dalam jangkauan yoyo; kite dan putus kontak.",
+    "ally": "Tekanan bergerak membantu Cyclops mengejar target.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Claude": {
     "mobility": 3,
@@ -574,10 +602,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Teleport bayangan dan ultimate area; akses tergantung posisi bayangan",
-    "response": "Zoning titik masuk, jangan buang stun sebelum teleport",
-    "ally": "Follow-up area setelah CC tim",
+    "response": "Awasi posisi bayangan; gunakan ultimate setelah perpindahan bila memungkinkan.",
+    "ally": "DPS fisik area melengkapi fokus single target Cyclops.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Clint": {
     "mobility": 2,
@@ -594,10 +623,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash mundur dan poke basic attack jarak panjang",
-    "response": "Hindari garis poke; jangan mengejar tanpa vision",
-    "ally": "Poke dan immobilize situasional",
+    "response": "Hindari poke saat berjalan ke pit; jangan kejar dash ke semak.",
+    "ally": "Poke fisik dan immobilize membantu gank.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Cyclops": {
     "mobility": 1,
@@ -614,10 +644,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Ultimate lock jarak jauh dan spam orb",
-    "response": "Jaga jarak dari rangkaian orb; root saja tidak selalu memutus channel",
-    "ally": "Lock untuk menahan target di S2",
+    "response": "Referensi mirror: hindari rentetan orb dan jaga jarak saat cooldown.",
+    "ally": "Referensi diri, bukan pilihan teman.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Diggie": {
     "mobility": 1,
@@ -634,10 +665,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Bom dan tarik balik; ultimate membebaskan CC tim",
-    "response": "Tunggu ultimate habis sebelum mengandalkan stun",
-    "ally": "Cleanse CC yang dapat dibersihkan, bukan suppression",
+    "response": "Pancing ultimate sebelum lock; awasi bom saat masuk semak.",
+    "ally": "Cleanse membantu menjaga uptime spam, bukan melawan suppression.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Dyrroth": {
     "mobility": 2,
@@ -654,10 +686,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan pengurangan physical defense diikuti burst",
-    "response": "Jangan berdiri dekat frontline yang sedang diserang",
-    "ally": "Burst follow-up terhadap frontline",
+    "response": "Hindari duel early saat defense reduction aktif; kite setelah dash.",
+    "ally": "Burst fisik mempercepat focus target frontline.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Edith": {
     "mobility": 2,
@@ -674,10 +707,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Charge dan lempar target lalu mode marksman magic",
-    "response": "Hindari jalur charge dan burst transformasi",
-    "ally": "Peel atau setup lewat lemparan",
+    "response": "Jauhi charge dan lemparan; mundur saat mode marksman aktif.",
+    "ally": "CC dan frontline membantu Cyclops masuk untuk S2.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Esmeralda": {
     "mobility": 2,
@@ -694,10 +728,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Kecepatan, shield dan lompatan ultimate ke formasi",
-    "response": "Jaga jarak dari area pendaratan; antiheal situasional",
-    "ally": "Frontline menyerap tekanan",
+    "response": "Jangan adu shield dan sustain terlalu lama; gunakan antiheal jika dibutuhkan.",
+    "ally": "Frontline menyerap tekanan, memberi ruang skirmish.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Estes": {
     "mobility": 0,
@@ -714,10 +749,11 @@
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
     "threat": "Heal area membuat pertarungan panjang menguntungkan timnya",
-    "response": "Prioritaskan antiheal dan zoning pemisah",
-    "ally": "Heal menjaga uptime Gord",
+    "response": "Pisahkan atau fokus target rentan; antiheal penting pada fight panjang.",
+    "ally": "Heal menjaga HP Cyclops saat kontes dan spam.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Eudora": {
     "mobility": 0,
@@ -734,10 +770,11 @@
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
     "threat": "Stun target dan burst magic dari semak",
-    "response": "Jangan cek semak sendiri; jaga jarak cast",
-    "ally": "Stun instan membantu kombo",
+    "response": "Jangan cek semak sendiri; tunggu stun dan burst terpakai.",
+    "ally": "Stun instan membuka gank sebelum ultimate Cyclops.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Fanny": {
     "mobility": 3,
@@ -754,10 +791,11 @@
     "dashHeavy": true,
     "movement": "kabel lintas dinding",
     "threat": "Kabel lintas dinding, serangan cepat dan sudut masuk tak biasa",
-    "response": "Jauhi dinding dan simpan stun untuk jalur kabel",
-    "ally": "Flank memberi tekanan, tidak otomatis peel",
+    "response": "Jaga jalur kabel di jungle; lock saat ia dapat ditargetkan dan hindari mengejar lintas dinding.",
+    "ally": "Flank dan burst membantu pickoff; bukan peel utama.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Faramis": {
     "mobility": 2,
@@ -774,10 +812,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Tarikan dan perlindungan kematian sementara tim",
-    "response": "Tunda kombo utama saat perlindungan aktif",
-    "ally": "Tarikan dan perlindungan memberi waktu reposition",
+    "response": "Tunda commit saat perlindungan kematian aktif; simpan HP untuk kontes ulang.",
+    "ally": "Perlindungan memberi waktu Cyclops bertahan dan reposisi.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Floryn": {
     "mobility": 0,
@@ -794,10 +833,11 @@
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
     "threat": "Heal global menyelamatkan target jauh, stun proyektil",
-    "response": "Waspadai heal sebelum eksekusi; antiheal tidak selalu cukup",
-    "ally": "Heal global dan stun follow-up",
+    "response": "Perhitungkan heal global sebelum execute dan jangan overextend.",
+    "ally": "Heal global membantu skirmish jauh dan stun membuka gank.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Franco": {
     "mobility": 1,
@@ -814,10 +854,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Hook dari jarak jauh dan suppression dekat",
-    "response": "Berlindung di belakang unit; Purify bukan jawaban suppression",
-    "ally": "Hook setup atau suppression diver",
+    "response": "Hindari hook saat mengambil buff dan pit; jangan masuk radius suppression.",
+    "ally": "Hook membuka pickoff; suppression bisa mengunci jungler lawan saat secure.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Fredrinn": {
     "mobility": 2,
@@ -834,10 +875,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Taunt dan airborne berulang; balasan burst dari energi",
-    "response": "Jauhi radius taunt dan ultimate saat HP rendah",
-    "ally": "Frontline dan CC menjaga area Gord",
+    "response": "Kite di luar taunt dan jangan berdiri di depan burst balasan.",
+    "ally": "Frontline dan CC memberi ruang kontes objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Freya": {
     "mobility": 2,
@@ -854,10 +896,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan, shield dan pukulan berulang saat dekat",
-    "response": "Kite di luar jangkauan lompat; simpan stun",
-    "ally": "Engage frontline dan follow-up",
+    "response": "Jaga jarak dari lompat dan pukulan; jangan duel ketika shield kuat.",
+    "ally": "Tekanan melee mengalihkan perhatian dari Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Gatotkaca": {
     "mobility": 2,
@@ -874,10 +917,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan area jarak jauh dan taunt",
-    "response": "Keluar dari indikator pendaratan sebelum channel",
-    "ally": "Airborne dan taunt menyiapkan kombo",
+    "response": "Keluar indikator lompatan dan hindari taunt sebelum mendekat.",
+    "ally": "Airborne dan taunt membuka jendela spam S2.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Gloo": {
     "mobility": 2,
@@ -894,10 +938,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Attach dan immobilize mengganggu formasi",
-    "response": "Hindari pecahan dan jangan serang membabi buta saat attach",
-    "ally": "Disrupsi frontline dan lock situasional",
+    "response": "Hindari attach dan pecahan; kendalikan orb agar tidak salah commit saat target menempel.",
+    "ally": "Disrupsi frontline membantu menahan musuh di luar pit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Gord": {
     "mobility": 0,
@@ -914,10 +959,11 @@
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
     "threat": "Stun bola, area multi-hit dan laser; pasif true damage",
-    "response": "Jangan berdiri dalam S2 atau jalur laser",
-    "ally": "Referensi diri; bukan pilihan teman",
+    "response": "Hindari area S2 dan jalur laser, dekati dari sudut dengan vision.",
+    "ally": "Ultimate Cyclops menahan target untuk stun dan laser Gord; Cyclops menjaga jarak menengah, Gord di belakang.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Granger": {
     "mobility": 2,
@@ -934,10 +980,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan tembakan burst jarak jauh",
-    "response": "Hindari garis tembakan dan sudut flank",
-    "ally": "Poke dan follow-up jarak jauh",
+    "response": "Hindari tembakan dari jalur lurus; gunakan S2 untuk reposisi.",
+    "ally": "Burst fisik jarak jauh melengkapi magic DPS.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Grock": {
     "mobility": 2,
@@ -954,10 +1001,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Charge dan dinding membatasi jalur keluar",
-    "response": "Hindari posisi terjepit dinding",
-    "ally": "Dinding dan knockup membantu zoning",
+    "response": "Jangan terjebak dinding saat masuk atau keluar jungle.",
+    "ally": "Dinding menutup jalur masuk lawan; koordinasikan jalur keluar sendiri.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Guinevere": {
     "mobility": 2,
@@ -974,10 +1022,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan knockup dilanjutkan ultimate",
-    "response": "Pancing lompatan sebelum channel",
-    "ally": "Airborne panjang untuk multi-hit",
+    "response": "Pancing lompatan sebelum masuk; hindari kombo airborne.",
+    "ally": "Airborne memberi waktu orb berulang dan lock lanjutan.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Gusion": {
     "mobility": 3,
@@ -994,10 +1043,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan pisau kembali menghasilkan burst dekat",
-    "response": "Hindari tanda pisau pertama; stun saat ia masuk",
-    "ally": "Pickoff follow-up setelah CC",
+    "response": "Hindari tanda pisau awal; kite ketika pisau kembali.",
+    "ally": "Burst follow-up pada target yang di-lock.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Hanabi": {
     "mobility": 1,
@@ -1014,10 +1064,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Pantulan basic attack dan shield anti-CC bersyarat",
-    "response": "Jangan berdempetan; tunggu shield turun",
-    "ally": "Immobilize dan damage area follow-up",
+    "response": "Tunggu shield turun sebelum lock; jangan rapat dengan tim atau creep.",
+    "ally": "Immobilize membantu follow-up, DPS fisik melengkapi Cyclops.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Hanzo": {
     "mobility": 2,
@@ -1034,10 +1085,11 @@
     "dashHeavy": false,
     "movement": "akses melalui proyeksi",
     "threat": "Proyeksi menyerang dari jauh sementara tubuh terpisah",
-    "response": "Zoning jalur proyeksi, perhatikan tubuh asli",
-    "ally": "Vision dan flank, bukan peel utama",
+    "response": "Awasi proyeksi dan tubuh asli; jangan tinggalkan buff tanpa vision.",
+    "ally": "Tekanan flank dan informasi posisi membantu rotasi.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Harith": {
     "mobility": 3,
@@ -1054,10 +1106,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash berulang dan shield membuat target sulit ditahan",
-    "response": "Tahan stun untuk akhir dash; jangan mengejar dalam area ulti",
-    "ally": "Follow-up magic DPS dan tekanan",
+    "response": "Jangan kejar ke area ultimate; lock setelah celah dash terbuka.",
+    "ally": "Magic DPS tambahan; pertimbangkan risiko lawan membeli magic defense.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Harley": {
     "mobility": 3,
@@ -1074,10 +1127,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Blink masuk, tanda ledakan dan kartu lalu kembali",
-    "response": "Hindari kartu dan perhatikan titik kembali",
-    "ally": "Pickoff setelah setup",
+    "response": "Gunakan gerak S2 untuk menghindari kartu; awasi titik kembali.",
+    "ally": "Pickoff cepat setelah lock; komposisi magic lebih berat.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Hayabusa": {
     "mobility": 3,
@@ -1094,10 +1148,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Bayangan untuk masuk dan keluar; ultimate menghindari targetability",
-    "response": "Jangan sendiri saat mark dan bayangan tersedia",
-    "ally": "Flank dan pickoff, bukan peel",
+    "response": "Hindari isolasi saat mark dan bayangan siap; tunggu targetable sebelum lock.",
+    "ally": "Flank fisik membantu menekan backline.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Helcurt": {
     "mobility": 3,
@@ -1114,10 +1169,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Ambush dari kabut/semak dan burst dengan gangguan kontrol",
-    "response": "Jangan rotasi sendiri saat vision terganggu",
-    "ally": "Pickoff dan tekanan vision",
+    "response": "Jangan kontes buff saat vision terganggu tanpa bantuan.",
+    "ally": "Tekanan vision membantu gank namun tidak menjamin keamanan pit.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Hilda": {
     "mobility": 2,
@@ -1134,10 +1190,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Sprint semak, regen dan pukulan target dekat",
-    "response": "Hindari semak tanpa vision, kite dari jauh",
-    "ally": "Frontline dan gangguan jungler",
+    "response": "Waspadai invade early dari semak; minta bantuan sebelum duel.",
+    "ally": "Gangguan buff lawan dan frontline membantu tempo jungle.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Hirara": {
     "mobility": 3,
@@ -1154,10 +1211,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Kombo fan dan dash; invulnerability situasional",
-    "response": "Tunggu jendela invulnerability selesai",
-    "ally": "Pickoff dan flank; detail patch perlu cek",
+    "response": "Tunggu jendela invulnerability dan hindari duel tanpa vision; mekanik perlu audit.",
+    "ally": "Flank dan pickoff, timing perlu diverifikasi.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Hylos": {
     "mobility": 2,
@@ -1174,10 +1232,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Jalur ultimate mempercepat engage, stun dekat dan slow aura",
-    "response": "Jaga jarak dari jalur masuk",
-    "ally": "Frontline, stun dan perlambatan diver",
+    "response": "Kite di luar aura dan jangan melawan jalur engage sendirian.",
+    "ally": "Frontline dan slow memberi ruang spam skill serta rotasi.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Irithel": {
     "mobility": 2,
@@ -1194,10 +1253,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Menembak sambil bergerak dan lompatan ultimate",
-    "response": "Jaga jarak saat ulti aktif; zoning jalur mundur",
-    "ally": "DPS sambil reposisi",
+    "response": "Jaga jarak saat ultimate aktif; lock jika dapat dikejar aman.",
+    "ally": "DPS fisik bergerak mendukung fight panjang.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Ixia": {
     "mobility": 0,
@@ -1214,10 +1274,11 @@
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
     "threat": "Zona tembakan area dan tarikan; posisi ulti relatif tetap",
-    "response": "Keluar dari bidang tembakan dan hindari tarikan",
-    "ally": "Follow-up area setelah grouping",
+    "response": "Keluar bidang tembakan sebelum mendekat; jangan masuk dari depan.",
+    "ally": "Tekanan area membantu menutup jalur objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Jawhead": {
     "mobility": 2,
@@ -1234,10 +1295,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lock mendekat dan lemparan menggeser target",
-    "response": "Jangan masuk radius lempar; awasi target lock",
-    "ally": "Lempar diver menjauh atau target ke area Gord",
+    "response": "Waspadai lemparan saat buff dan lock target; jangan masuk choke sendiri.",
+    "ally": "Lempar target ke jangkauan Cyclops atau jauh dari pit.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Johnson": {
     "mobility": 3,
@@ -1254,10 +1316,11 @@
     "dashHeavy": false,
     "movement": "engage jarak jauh/global",
     "threat": "Mobil global membawa penumpang dan stun tabrakan",
-    "response": "Awasi minimap dan hindari jalur sempit",
-    "ally": "Engage jarak jauh dan setup area",
+    "response": "Awasi minimap dan hindari jalur sempit tanpa vision.",
+    "ally": "Engage membawa target ke jangkauan kombo; koordinasikan rotasi.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Joy": {
     "mobility": 3,
@@ -1274,10 +1337,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash ritmis dan burst area; resistensi situasional",
-    "response": "Jangan beri jalur dash; tahan CC sesuai timing",
-    "ally": "Flank dan gangguan backline",
+    "response": "Hindari memberi jalur dash; tunggu celah resistensi sebelum lock.",
+    "ally": "Flank mengalihkan tekanan dari Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Julian": {
     "mobility": 2,
@@ -1294,10 +1358,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Skill enhanced memberi dash, burst atau CC area",
-    "response": "Identifikasi enhanced yang tersedia sebelum maju",
-    "ally": "Immobilize/airborne untuk follow-up",
+    "response": "Identifikasi skill enhanced sebelum commit; hindari duel saat kombo siap.",
+    "ally": "Airborne atau immobilize membantu gank dan follow-up.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Kadita": {
     "mobility": 3,
@@ -1314,10 +1379,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Gelombang masuk dengan immunity situasional, knockup dan burst",
-    "response": "Jauhi semak dan tunggu gelombang selesai",
-    "ally": "Knockup area menyiapkan kombo",
+    "response": "Jangan masuk semak buta; tunggu gelombang dan burst sebelum mengejar.",
+    "ally": "Knockup area menyiapkan lock target prioritas.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Kagura": {
     "mobility": 3,
@@ -1334,10 +1400,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Payung berpindah, cleanse dan tarikan/burst jarak menengah",
-    "response": "Awasi lokasi payung, jangan hanya posisi hero",
-    "ally": "Tarikan dan stun untuk follow-up",
+    "response": "Awasi payung dan cleanse; jangan buang ultimate sebelum escape terpakai.",
+    "ally": "Tarikan dan burst membantu pickoff.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Kaja": {
     "mobility": 2,
@@ -1354,10 +1421,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Mobilitas Soaring dan restriksi area menurut data patch",
-    "response": "Hindari area ultimate; jangan asumsikan Purify menghapus restriksi",
-    "ally": "Lock area untuk zoning; mekanik revamp perlu cek",
+    "response": "Hindari restriksi area sesuai data lokal; jangan mengandalkan escape setelah tertangkap.",
+    "ally": "Kontrol area membantu jaga akses pit; detail revamp perlu audit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Kalea": {
     "mobility": 2,
@@ -1374,10 +1442,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Heal melalui zona air, knockup dan lemparan",
-    "response": "Waspadai sudut displacement",
-    "ally": "Heal dan displacement untuk peel/setup",
+    "response": "Hindari displacement menuju lawan; perhitungkan heal dalam duel.",
+    "ally": "Heal dan knockup memperpanjang uptime Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Karina": {
     "mobility": 3,
@@ -1394,10 +1463,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash target dan execute; perlindungan basic attack bukan imun skill",
-    "response": "Simpan stun saat masuk dan jangan beri reset kill",
-    "ally": "Pickoff setelah HP target turun",
+    "response": "Jaga HP agar tidak memberi reset; gunakan skill dari jarak aman.",
+    "ally": "Execute melengkapi damage Cyclops, tetapi sama-sama magic.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Karrie": {
     "mobility": 2,
@@ -1414,10 +1484,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash pendek, kiting dan true damage terhadap HP tebal",
-    "response": "Jaga jarak dari basic attack; zoning jalur dash",
-    "ally": "Damage anti-frontline",
+    "response": "Jangan adu DPS dekat; armor tidak mengurangi true damage.",
+    "ally": "Damage anti-tank membantu menembus frontline.",
     "phase": "late (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Khaleed": {
     "mobility": 2,
@@ -1434,10 +1505,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Gerak pasir, heal dan ultimate engage",
-    "response": "Hindari jalur ultimate; tekan heal dengan zoning",
-    "ally": "Engage area dan frontline",
+    "response": "Hindari jalur ultimate dan tekan heal saat aman.",
+    "ally": "Engage dan frontline membuka jalur rotasi serta gank.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Khufra": {
     "mobility": 2,
@@ -1454,10 +1526,11 @@
     "dashHeavy": false,
     "movement": "dash/lompatan",
     "threat": "Lompatan jauh dan interupsi dash melalui bola",
-    "response": "Jangan channel di jalur lompatan",
-    "ally": "Anti-dash dan knockup melindungi Gord",
+    "response": "Hindari lompatan dan CC; jangan menyamakan S2 speed Cyclops dengan dash.",
+    "ally": "Anti-dash menahan target lincah agar mudah di-lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Kimmy": {
     "mobility": 2,
@@ -1474,10 +1547,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Tembakan sambil bergerak dan poke jarak jauh",
-    "response": "Hindari garis tembakan dan jangan mengejar kiting",
-    "ally": "Poke berkelanjutan",
+    "response": "Geser dari jalur tembakan dan jangan terjebak kiting lawan.",
+    "ally": "Poke membantu melemahkan target sebelum kontes.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lancelot": {
     "mobility": 3,
@@ -1494,10 +1568,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash reset dan invulnerability singkat pada kombo",
-    "response": "Tunggu skill kebal damage habis; jangan beri jalur melalui minion",
-    "ally": "Pickoff dan flank",
+    "response": "Tunggu invulnerability habis; jangan beri jalur dash melalui creep.",
+    "ally": "Flank fisik dan burst setelah lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lapu-Lapu": {
     "mobility": 2,
@@ -1514,10 +1589,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan transformasi dan CC area beruntun",
-    "response": "Jaga jarak dari pendaratan dan ayunan besar",
-    "ally": "Frontline dan CC area",
+    "response": "Jauhi pendaratan dan ayunan besar; kite di tepi fight.",
+    "ally": "Frontline dan CC area menjaga ruang Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Layla": {
     "mobility": 1,
@@ -1534,10 +1610,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Jangkauan basic attack meningkat dan laser jarak jauh",
-    "response": "Gunakan cover dan jangan trade jarak terbuka saat late",
-    "ally": "Damage follow-up dari belakang",
+    "response": "Dekati hanya lewat jalur aman; jangan menerima poke gratis late.",
+    "ally": "Damage fisik jarak jauh membantu fight dari belakang.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Leomord": {
     "mobility": 2,
@@ -1554,10 +1631,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Kuda memberi mobilitas dan tekanan area",
-    "response": "Jangan berdiri di jalur kuda; kite saat mode habis",
-    "ally": "Frontline engage dan follow-up",
+    "response": "Kite saat berkuda dan jangan berdiri di jalur charge.",
+    "ally": "Frontline mobile membantu mengejar target yang di-lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lesley": {
     "mobility": 2,
@@ -1574,10 +1652,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Kamuflase, true damage crit dan tembakan ultimate",
-    "response": "Jangan terpapar poke berulang; berlindung dari snipe",
-    "ally": "Poke dan vision situasional",
+    "response": "Minimalkan poke true damage sebelum kontes; jangan abaikan snipe.",
+    "ally": "Poke fisik/true damage melengkapi magic Cyclops.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Ling": {
     "mobility": 3,
@@ -1594,10 +1673,11 @@
     "dashHeavy": true,
     "movement": "lintas tembok/lompatan",
     "threat": "Tembok mengabaikan jalur biasa; ultimate airborne dan invulnerability",
-    "response": "Jauhi dinding, simpan stun untuk pendaratan",
-    "ally": "Flank dan airborne follow-up",
+    "response": "Awasi dinding di sekitar buff dan pit; lock setelah invulnerability.",
+    "ally": "Flank dan airborne membuka pickoff; koordinasikan farm.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lolita": {
     "mobility": 2,
@@ -1614,10 +1694,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Shield menghadapi proyektil dan ultimate area stun",
-    "response": "Jangan lempar bola ke shield tanpa cek interaksi; laser berbeda dari proyektil",
-    "ally": "Shield dan stun area untuk peel",
+    "response": "Waspadai shield proyektil; jangan mengasumsikan orb atau ultimate pasti lolos tanpa audit.",
+    "ally": "Shield dan stun memberi ruang bertahan saat spam.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lukas": {
     "mobility": 2,
@@ -1634,10 +1715,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Transformasi beast, charge dan CC area",
-    "response": "Hindari jalur charge dan jangan channel saat ia dekat",
-    "ally": "Frontline dan setup",
+    "response": "Hindari charge dan CC beast; jangan bertahan dekat terlalu lama.",
+    "ally": "Frontline dan setup menjaga jalur masuk objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lunox": {
     "mobility": 2,
@@ -1654,10 +1736,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Burst chaos dan mode cahaya kebal damage sementara",
-    "response": "Tunggu mode cahaya berakhir; jaga jarak chaos",
-    "ally": "Damage terhadap frontline",
+    "response": "Tunggu mode cahaya selesai; jangan adu burst Chaos dari dekat.",
+    "ally": "Damage anti-frontline melengkapi spam Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Luo Yi": {
     "mobility": 2,
@@ -1674,10 +1757,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Reaksi Yin-Yang menarik target; teleport tim untuk flank",
-    "response": "Jangan berdempetan dengan tanda berlawanan",
-    "ally": "Grouping reaksi menahan target di S2",
+    "response": "Pisah dari sekutu bertanda berbeda; awasi teleport flank.",
+    "ally": "Grouping membantu S1 dan chain lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Lylia": {
     "mobility": 2,
@@ -1694,10 +1778,11 @@
     "dashHeavy": false,
     "movement": "reset posisi",
     "threat": "Bom berulang dan reset posisi Black Shoes",
-    "response": "Jangan kejar ke area bom; perhatikan titik reset",
-    "ally": "Zoning area berlapis",
+    "response": "Jangan masuk zona bom; awasi titik reset sebelum mengejar.",
+    "ally": "Zoning menutup jalur lawan menuju pit.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Marcel": {
     "mobility": 2,
@@ -1714,10 +1799,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Frozen Moment membekukan unit/proyektil menurut data lokal",
-    "response": "Koordinasikan timing freeze; jangan asumsikan semua interaksi skill",
-    "ally": "Setup atau gangguan timing; perlu verifikasi mekanik",
+    "response": "Koordinasikan timing freeze; interaksi proyektil Cyclops perlu audit.",
+    "ally": "Setup situasional; jangan asumsikan freeze selalu menguntungkan orb.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Martis": {
     "mobility": 2,
@@ -1734,10 +1820,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "CC beruntun dengan immunity saat skill dan execute reset",
-    "response": "Tunggu fase immunity; jangan beri reset kill",
-    "ally": "Displacement dan frontline",
+    "response": "Tunggu immunity dan hindari execute ketika HP rendah.",
+    "ally": "Displacement memberi ruang kontes dan follow-up.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Masha": {
     "mobility": 2,
@@ -1754,10 +1841,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Kecepatan, tekanan melee dan beberapa bar HP",
-    "response": "Kite jarak aman; jangan anggap sustain versi lama",
-    "ally": "Frontline dan tekanan target dekat",
+    "response": "Kite dari serangan dekat; jangan mengandalkan statistik sustain lama.",
+    "ally": "Tekanan melee mengalihkan fokus musuh.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Mathilda": {
     "mobility": 3,
@@ -1774,10 +1862,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash tim dan shield; ultimate mengejar target",
-    "response": "Awasi diver yang ikut masuk; jaga jarak dari lock",
-    "ally": "Opsi escape Gord melalui dash tim dan shield",
+    "response": "Waspadai diver yang ikut masuk; jangan mengejar melalui dash tim.",
+    "ally": "Shield dan opsi dash sekutu membantu Cyclops reposition tanpa Flicker.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Melissa": {
     "mobility": 2,
@@ -1794,10 +1883,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash, boneka penghubung damage dan barrier anti-melee",
-    "response": "Jangan berdempetan dekat boneka; serang dari luar barrier",
-    "ally": "Barrier membantu peel melee, bukan semua ancaman",
+    "response": "Jauhi boneka dan jangan commit melewati barrier tanpa ruang keluar.",
+    "ally": "Barrier membantu menahan melee saat Cyclops menyerang.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Minotaur": {
     "mobility": 2,
@@ -1814,10 +1904,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Airborne area dan heal tim",
-    "response": "Jangan kelompok rapat; tunggu ulti sebelum laser",
-    "ally": "Heal, airborne dan peel area",
+    "response": "Hindari grouping di pit dan tunggu airborne besar.",
+    "ally": "Heal dan airborne membantu spam serta kontes objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Minsitthar": {
     "mobility": 1,
@@ -1834,10 +1925,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Hook dan zona pembatas dash",
-    "response": "Hindari hook dan area lock; efek pada Gord berbeda dari diver",
-    "ally": "Anti-dash menjaga backline, hook setup",
+    "response": "Hindari hook dan zona CC; S2 Cyclops adalah movement speed, bukan blink.",
+    "ally": "Zona anti-dash menahan lawan lincah agar mudah di-lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Miya": {
     "mobility": 2,
@@ -1854,10 +1946,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Cleanse dan conceal ultimate untuk reposisi; DPS late",
-    "response": "Jangan abaikan flank saat menghilang",
-    "ally": "Damage follow-up, perlindungan terbatas",
+    "response": "Awasi flank setelah conceal; jangan membuang ultimate sebelum cleanse jika bisa.",
+    "ally": "DPS fisik tinggi membantu objektif dan fight panjang.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Moskov": {
     "mobility": 2,
@@ -1874,10 +1967,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan stun ke dinding; serangan menembus target",
-    "response": "Hindari berdiri sejajar dengan frontline atau dinding",
-    "ally": "Stun dinding untuk pickoff",
+    "response": "Jangan berdiri segaris dengan tim atau dekat dinding saat kontes.",
+    "ally": "Stun dinding membuka pickoff dan DPS fisik.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Nana": {
     "mobility": 1,
@@ -1894,10 +1988,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Molina polymorph dan passive lolos kematian",
-    "response": "Hindari zona Molina; jangan buang laser pada passive",
-    "ally": "Molina menghalangi jalur diver",
+    "response": "Hindari Molina sebelum masuk; jangan mengejar pasif ke posisi berbahaya.",
+    "ally": "Polymorph menjaga jalur gank dan memperpanjang kontrol.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Natalia": {
     "mobility": 3,
@@ -1914,10 +2009,11 @@
     "dashHeavy": false,
     "movement": "conceal dan gerak cepat",
     "threat": "Conceal dan serangan mendadak ke target rapuh",
-    "response": "Jangan sendirian; cek semak dengan skill",
-    "ally": "Vision pressure dan pickoff",
+    "response": "Jangan cek semak tanpa bantuan saat rotasi; simpan jalan keluar.",
+    "ally": "Tekanan vision dan pickoff membantu jungle tempo.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Natan": {
     "mobility": 2,
@@ -1934,10 +2030,11 @@
     "dashHeavy": false,
     "movement": "teleport/reposition",
     "threat": "Serangan magic menembus dan reposisi bayangan",
-    "response": "Hindari berdiri segaris dengan frontline",
-    "ally": "Damage magic follow-up",
+    "response": "Hindari garis serangan yang menembus unit; perhatikan posisi bayangan.",
+    "ally": "Magic DPS cepat membantu objektif, tetapi meningkatkan kebutuhan penetrasi tim.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Nolan": {
     "mobility": 3,
@@ -1954,10 +2051,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan ledakan retakan; reposisi ultimate",
-    "response": "Jangan channel di area retakan; simpan stun setelah dash",
-    "ally": "Pickoff dan flank",
+    "response": "Hindari jalur retakan di lorong; lock setelah dash bila aman.",
+    "ally": "Burst fisik menuntaskan target lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Novaria": {
     "mobility": 2,
@@ -1974,10 +2072,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Poke jauh, vision dan lintas dinding",
-    "response": "Jaga HP sebelum fight dan keluar garis tembakan",
-    "ally": "Vision membuka posisi target untuk Gord",
+    "response": "Jaga HP dari poke sebelum masuk pit dan perhatikan reveal.",
+    "ally": "Vision jauh membantu mengamankan buff dan objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Obsidia": {
     "mobility": 2,
@@ -1994,10 +2093,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Stack bone shards, kiting dan tether ultimate",
-    "response": "Hindari jangkauan tether; jangan kejar tanpa cover",
-    "ally": "Lock situasional dan DPS",
+    "response": "Hindari tether dan jangan kejar tanpa cover; detail patch perlu audit.",
+    "ally": "Lock situasional dan DPS fisik membantu gank.",
     "phase": "late (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Odette": {
     "mobility": 1,
@@ -2014,10 +2114,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Channel area dengan burst berulang dan kontrol awal",
-    "response": "Jaga jarak area ulti; stun untuk interrupt bila tersedia",
-    "ally": "Follow-up damage setelah grouping",
+    "response": "Keluar area ultimate; immobilize Cyclops bukan jaminan menghentikan channel.",
+    "ally": "Damage area setelah lock dan grouping tim.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Paquito": {
     "mobility": 3,
@@ -2034,10 +2135,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash/pukulan enhanced beruntun dan displacement",
-    "response": "Hindari sudut flank; tunggu rangkaian enhanced",
-    "ally": "CC dan burst follow-up",
+    "response": "Hindari rangkaian enhanced dan sudut semak ketika invade.",
+    "ally": "Burst fisik dan CC mempercepat pickoff.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Pharsa": {
     "mobility": 3,
@@ -2054,10 +2156,11 @@
     "dashHeavy": false,
     "movement": "rotasi terbang",
     "threat": "Terbang untuk rotasi dan bombardir area dari jauh",
-    "response": "Keluar indikator bombardir sebelum channel",
-    "ally": "Poke dan follow-up area",
+    "response": "Keluar indikator bombardir dengan S2; cari sudut aman untuk pendekatan.",
+    "ally": "Bombardir membantu zoning pit dari belakang.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Phoveus": {
     "mobility": 2,
@@ -2074,10 +2177,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan mengejar target dengan kondisi mark/gerak",
-    "response": "Jaga jarak, jangan panik menggunakan mobilitas dekatnya",
-    "ally": "Frontline dan tekanan hero mobile",
+    "response": "Kite di luar jangkauan; pahami trigger lompatan, S2 bukan dash.",
+    "ally": "Frontline menekan lawan mobile dan membuka ruang.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Popol and Kupa": {
     "mobility": 2,
@@ -2094,10 +2198,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Kupa, trap immobilize dan mobilitas tunggangan versi revamp",
-    "response": "Jangan masuk jalur trap; hindari knockup Kupa",
-    "ally": "Vision trap dan peel situasional",
+    "response": "Cek trap sebelum invade; awasi mobilitas tunggangan dan knockup Kupa; detail revamp perlu audit.",
+    "ally": "Trap memberi informasi jalur gank, Kupa membantu kontrol dan tekanan objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Rafaela": {
     "mobility": 2,
@@ -2114,10 +2219,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Heal dan movement speed tim; stun garis",
-    "response": "Perhatikan percepatan engage timnya",
-    "ally": "Heal, speed dan stun untuk reposition",
+    "response": "Perhitungkan speed dan heal tim lawan saat mengejar.",
+    "ally": "Heal dan speed meningkatkan uptime Cyclops, stun membuka gank.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Roger": {
     "mobility": 3,
@@ -2134,10 +2240,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Transformasi dan lunge mengejar target HP rendah",
-    "response": "Jaga HP dan simpan stun saat mode serigala masuk",
-    "ally": "Follow-up execute dan flank",
+    "response": "Jaga HP dari execute serigala; hindari duel early tanpa bantuan.",
+    "ally": "Burst fisik follow-up, koordinasikan pembagian jungle.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Ruby": {
     "mobility": 2,
@@ -2154,10 +2261,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Hop pendek berulang dengan tarik dan sustain",
-    "response": "Jaga jarak dari hook, jangan duel dekat",
-    "ally": "Tarikan dan peel berulang",
+    "response": "Kite di luar hook dan jangan adu sustain tanpa antiheal.",
+    "ally": "Tarikan dan peel memberi waktu orb mengenai target.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Saber": {
     "mobility": 2,
@@ -2174,10 +2282,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Dash dan ultimate airborne target tunggal burst",
-    "response": "Jangan sendirian saat ulti siap; simpan perlindungan sebelum lock",
-    "ally": "Lock diver atau target prioritas",
+    "response": "Jaga jarak ketika ultimate siap; jangan masuk semak sendiri.",
+    "ally": "Lock airborne membantu pickoff target prioritas atau mengusir diver.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Selena": {
     "mobility": 3,
@@ -2194,10 +2303,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Panah stun jauh dan dash ke target bertanda",
-    "response": "Hindari jalur panah dan trap semak",
-    "ally": "Vision dan stun panjang untuk kombo",
+    "response": "Cek trap dan jalur panah sebelum buff; hindari dash ke target bertanda.",
+    "ally": "Vision trap dan stun panjang sangat membantu gank.",
     "phase": "early–mid (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Silvanna": {
     "mobility": 2,
@@ -2214,10 +2324,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan mengurung target dalam area dan damage berulang",
-    "response": "Hindari lingkaran ulti; jangan bergantung pada slow",
-    "ally": "Lock area untuk follow-up",
+    "response": "Hindari lingkaran ultimate; jangan mengandalkan movement speed untuk lolos restriksi.",
+    "ally": "Lock area membantu Cyclops menumpuk hit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Sora": {
     "mobility": 2,
@@ -2234,10 +2345,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Mode Thunder/Torrent memberi burst atau tarik menurut data lokal",
-    "response": "Amati mode sebelum commit; detail skill belum diverifikasi",
-    "ally": "Setup displacement atau burst sesuai mode",
+    "response": "Amati mode Thunder/Torrent sebelum commit; mekanik lokal belum diverifikasi.",
+    "ally": "Setup atau burst menurut mode; timing perlu audit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Sun": {
     "mobility": 2,
@@ -2254,10 +2366,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Klon dan dash mengejar target, DPS melee",
-    "response": "Jangan terpancing klon; zoning area masuk",
-    "ally": "Tekanan objektif, bukan peel utama",
+    "response": "Jangan mengejar klon; orb dapat terbagi ke unit sekitar, perhatikan target.",
+    "ally": "Tekanan objektif dan fisik, peel terbatas.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Suyou": {
     "mobility": 3,
@@ -2274,10 +2387,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Tap/hold mengubah gerak, burst dan kontrol",
-    "response": "Perhatikan mode dan jangkauan skill sebelum channel",
-    "ally": "CC situasional dan follow-up",
+    "response": "Baca tap/hold dan jangkauan; jangan duel saat kombo siap.",
+    "ally": "CC atau burst situasional membantu gank.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Terizla": {
     "mobility": 2,
@@ -2294,10 +2408,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Lompatan ultimate dan tarikan berulang",
-    "response": "Jauhi pusat area tarik dan ayunan",
-    "ally": "Grouping kuat untuk S2 dan laser",
+    "response": "Jauhi pusat tarikan dan ayunan saat kontes pit.",
+    "ally": "Grouping dan frontline membantu S1 serta lock lanjutan.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Thamuz": {
     "mobility": 2,
@@ -2314,10 +2429,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Sustain melee dan pengejaran dengan sabit",
-    "response": "Kite di luar radius serang; jangan duel saat ulti",
-    "ally": "Frontline menahan ruang",
+    "response": "Jangan adu sustain melee saat ultimate; kite dengan S2.",
+    "ally": "Frontline menahan ruang dan menekan akses lawan.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Tigreal": {
     "mobility": 2,
@@ -2334,10 +2450,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Dorongan, tarikan ultimate dan airborne area",
-    "response": "Jangan berdempetan; awasi Flicker engage",
-    "ally": "Grouping dan peel, perhatikan arah dorongan",
+    "response": "Awasi engage dari semak dan jangan rapat saat kontes.",
+    "ally": "Grouping dan peel memberi waktu Cyclops spam skill.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Uranus": {
     "mobility": 2,
@@ -2354,10 +2471,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Regen dan gerak berulang untuk mengganggu frontline",
-    "response": "Gunakan tekanan dari jarak aman dan antiheal bila relevan",
-    "ally": "Frontline menyerap tekanan",
+    "response": "Jangan habiskan waktu mengejar tank regen; antiheal bila diperlukan.",
+    "ally": "Frontline menyerap tekanan namun tidak menggantikan kontrol keras.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Vale": {
     "mobility": 1,
@@ -2374,10 +2492,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Knockup dan burst area dari jarak menengah",
-    "response": "Hindari indikator angin sebelum channel",
-    "ally": "Airborne untuk setup",
+    "response": "Hindari indikator angin dan pancing airborne sebelum mendekat.",
+    "ally": "Airborne memudahkan rangkaian orb dan lock.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Valentina": {
     "mobility": 2,
@@ -2394,10 +2513,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Dash dan fear; ultimate menyalin mekanik hero lain",
-    "response": "Analisis ultimate yang dicuri, jangan asumsikan ancaman tetap",
-    "ally": "Setup berubah sesuai ultimate salinan",
+    "response": "Perhatikan ultimate salinan; jangan asumsikan ancaman tetap.",
+    "ally": "Sinergi mengikuti ultimate yang dicuri.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Valir": {
     "mobility": 1,
@@ -2414,10 +2534,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Knockback, stun stack dan cleanse diri",
-    "response": "Jaga jarak dari dorongan; hindari choke",
-    "ally": "Peel kuat terhadap pendekatan melee",
+    "response": "Hindari choke dan dorongan; tunggu cleanse sebelum ultimate.",
+    "ally": "Knockback dan stun menjaga ruang kiting Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Vexana": {
     "mobility": 0,
@@ -2434,10 +2555,11 @@
     "dashHeavy": false,
     "movement": "tanpa mobilitas dominan",
     "threat": "Fear, burst area dan summon knight airborne",
-    "response": "Hindari fear dan pendaratan summon",
-    "ally": "Fear dan airborne untuk setup",
+    "response": "Hindari fear dan summon; awasi pembagian hit orb ke unit sekitar.",
+    "ally": "Fear dan airborne membantu lock dan zoning pit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Wanwan": {
     "mobility": 3,
@@ -2454,10 +2576,11 @@
     "dashHeavy": true,
     "movement": "hop basic attack",
     "threat": "Hop saat basic attack; ultimate untargetable bersyarat",
-    "response": "Jaga jarak agar weakness tidak mudah dibuka",
-    "ally": "DPS follow-up, bukan peel utama",
+    "response": "Jaga weakness dan jangan membuang lock saat untargetable.",
+    "ally": "DPS fisik bergerak melengkapi magic DPS Cyclops.",
     "phase": "late (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "X.Borg": {
     "mobility": 2,
@@ -2474,10 +2597,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Armor terpisah dan api berulang; ultimate ledakan area",
-    "response": "Jauhi radius ledakan dan kite api",
-    "ally": "Frontline damage dan zoning",
+    "response": "Kite api dan jauhi ledakan; waspadai true damage saat duel panjang.",
+    "ally": "Frontline dan zoning membantu akses objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Xavier": {
     "mobility": 1,
@@ -2494,10 +2618,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Kombinasi field immobilize dan laser global",
-    "response": "Hindari garis laser dan field; root tidak selalu interrupt",
-    "ally": "Root menahan target dalam S2",
+    "response": "Hindari field immobilize sebelum masuk; laser jauh dapat mengganggu kontes. Detail buff perlu audit.",
+    "ally": "Root dan poke global membantu gank serta zoning objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Yi Sun-shin": {
     "mobility": 2,
@@ -2514,10 +2639,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Pergantian melee/ranged dan vision global",
-    "response": "Awasi reveal serta jalur masuk melee",
-    "ally": "Vision global membuka flank",
+    "response": "Awasi reveal global dan jangan duel melee tanpa keunggulan.",
+    "ally": "Vision global membantu keputusan invade dan objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Yin": {
     "mobility": 3,
@@ -2533,11 +2659,12 @@
     "untargetable": false,
     "dashHeavy": true,
     "movement": "dash/lompatan",
-    "threat": "Dash dan domain duel mengisolasi Gord",
-    "response": "Jaga jarak sebelum lock; jangan andalkan peel setelah terisolasi",
-    "ally": "Isolasi target prioritas, bisa memisahkan target dari S2",
+    "threat": "Dash dan domain duel mengisolasi Cyclops dari tim serta kontes objektif.",
+    "response": "Jaga jarak sebelum domain; bantuan tim tidak tersedia setelah terisolasi.",
+    "ally": "Isolasi target dapat mengurangi tekanan, tetapi jangan sampai mengganggu focus kill.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Yu Zhong": {
     "mobility": 3,
@@ -2554,10 +2681,11 @@
     "dashHeavy": true,
     "movement": "dash/lompatan",
     "threat": "Mode naga menembus formasi dan sustain stack",
-    "response": "Reposisi dari jalur naga; jangan berdiri dekat saat berubah",
-    "ally": "Flank dan knockup untuk setup",
+    "response": "Keluar jalur naga dan hindari stack sustain; kite setelah transformasi.",
+    "ally": "Flank dan knockup membuka ruang Cyclops.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Yve": {
     "mobility": 1,
@@ -2574,10 +2702,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Grid ultimate zoning serta slow area jarak jauh",
-    "response": "Keluar zona grid sebelum channel",
-    "ally": "Slow dan zoning menahan target",
+    "response": "Jangan masuk grid dari depan; gunakan S2 untuk keluar dari slow.",
+    "ally": "Zoning dan slow mempersempit akses musuh menuju pit.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Zetian": {
     "mobility": 1,
@@ -2594,10 +2723,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Gelombang phoenix dan shield/CC dekat menurut data lokal",
-    "response": "Hindari jalur gelombang dan CC dekat",
-    "ally": "Follow-up area; detail patch perlu cek",
+    "response": "Hindari jalur gelombang dan CC dekat; mekanik lokal perlu audit.",
+    "ally": "Follow-up area dan kontrol situasional.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Perlu audit mekanik patch"
+    "review": "Perlu audit mekanik patch · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Zhask": {
     "mobility": 1,
@@ -2614,10 +2744,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Spawn turret dan transformasi menekan area",
-    "response": "Jangan berdiri dalam jangkauan turret; zoning titik spawn",
-    "ally": "Kontrol ruang dan tekanan objektif",
+    "response": "Jangan duel dalam jangkauan summon; orb dapat terbagi ke unit sekitar.",
+    "ally": "Summon dan zoning membantu menahan jalur objektif.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Zhuxin": {
     "mobility": 1,
@@ -2634,10 +2765,11 @@
     "dashHeavy": false,
     "movement": "gerak/posisi",
     "threat": "Stack skill mengangkat dan melempar target",
-    "response": "Keluar area sebelum stack penuh",
-    "ally": "Displacement menyiapkan S2; arah lempar penting",
+    "response": "Keluar area sebelum stack penuh; hindari dilempar ke tim musuh.",
+    "ally": "Displacement membantu mendekatkan target ke jangkauan orb.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   },
   "Zilong": {
     "mobility": 3,
@@ -2654,9 +2786,10 @@
     "dashHeavy": false,
     "movement": "dash/lompatan",
     "threat": "Sprint dan flip target diikuti basic attack cepat",
-    "response": "Jangan sendirian; simpan stun sebelum flip",
-    "ally": "Pickoff atau peel dengan flip",
+    "response": "Jaga jarak sebelum flip; kite dengan S2 dan lock setelah pendekatan.",
+    "ally": "Pickoff fisik dan flip membantu mengisolasi target.",
     "phase": "mid/teamfight (perkiraan)",
-    "review": "Profil taktis, belum audit skill lengkap"
+    "review": "Profil taktis, belum audit skill lengkap · Adaptasi taktis Cyclops jungle; skor warisan belum diaudit ulang.",
+    "profileFor": "Cyclops Jungle"
   }
 }
